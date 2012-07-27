@@ -1,0 +1,4 @@
+name: OakServices
+main: com.ignoreourgirth.gary.oakservices.OakServices
+version: 1.0
+depend: [OakCoreLib]
